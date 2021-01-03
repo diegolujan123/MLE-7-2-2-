@@ -1,0 +1,33 @@
+h1 {
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
+h2 {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+Nav {
+  border: 1px solid black    
+}
+header {
+    border: 1px solid black
+}
+body {
+    text-align: center;
+}
+ul {
+    text-align: center;
+}
+.caca {
+    width: 960px;
+    margin: 12px auto;
+    padding: 50px;
+}
+nav li {
+    list-style: none;
+    font: bold 40px verdana;
+    display: run-in;
+}
+
+
